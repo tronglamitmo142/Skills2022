@@ -3,10 +3,14 @@
 1. Launch EC2 Instance in AWS  
 <space><space>
 ![Result](./Screen%20Shot%202022-09-25%20at%2020.15.22.png)
+<space><space>
 1. Install ansible in MAC OS X 
+<space><space>
 `brew install ansible`
+<space><space>
 `sudo mkdir /etc/ansible`
-3. Provide some config to access and do the task with EC2 instance  
+<space><space>
+1. Provide some config to access and do the task with EC2 instance  
 `nano ansible.cfg`
 ![Result](./Screen%20Shot%202022-09-25%20at%2020.18.49.png)
 4. Create Ansible Inventory with the IP of EC2 machince
