@@ -11,10 +11,10 @@ def factors(n):
             p = p + 1
     f.append(n)
     return f 
-print(factors(15))
 
 class TestFactor(unittest.TestCase):
     def test_factor(self):
-        actual = factors(10)
-        expected = [2, 5]
+        actual = factors(18)
+        expected = [2, 3, 6, 9, 18]
         self.assertEqual(actual, expected)
+
