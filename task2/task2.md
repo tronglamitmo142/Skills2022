@@ -2,13 +2,13 @@
 ## Steps
 1. Launch EC2 Instance in AWS  
 <space><space>
-![Result](./Screen%20Shot%202022-09-25%20at%2020.15.22.png)
+![Result](./Screen%20Shot%202022-09-25%20at%2020.15.22.png)  
 <space><space>
-1. Install ansible in MAC OS X 
+1. Install ansible in MAC OS X   
 <space><space>
-`brew install ansible`
+`brew install ansible`  
 <space><space>
-`sudo mkdir /etc/ansible`
+`sudo mkdir /etc/ansible`  
 <space><space>
 1. Provide some config to access and do the task with EC2 instance  
 `nano ansible.cfg`
