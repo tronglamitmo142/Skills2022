@@ -16,7 +16,7 @@ Step by step to automation with Jenkins
 ![Result](./Screen%20Shot%202022-09-25%20at%2021.58.36.png)  
 5. Check the result   
 ![Result](./Screen%20Shot%202022-09-25%20at%2021.59.44.png)  
-![Result](./Screen%20Shot%202022-09-25%20at%2021.59.44.png)  
+![Result](./Screen%20Shot%202022-09-25%20at%2022.00.10.png)  
 In agent, we can check the container is running or not  
 ![Result](./Screen%20Shot%202022-09-25%20at%2022.01.06.png)  
 
