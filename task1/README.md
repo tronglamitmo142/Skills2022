@@ -2,4 +2,4 @@
 - `git remote -v`
 
 ![Result](./Screen%20Shot%202022-09-23%20at%2016.10.09.png)
-  
+
