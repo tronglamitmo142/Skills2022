@@ -1,8 +1,9 @@
 ## To do this task, I use my local machine (MacOS X) and EC2 Ubuntu instance in AWS Cloud provider 
 ## Steps
 1. Launch EC2 Instance in AWS  
+<space><space>
 ![Result](./Screen%20Shot%202022-09-25%20at%2020.15.22.png)
-2. Install ansible in MAC OS X 
+1. Install ansible in MAC OS X 
 `brew install ansible`
 `sudo mkdir /etc/ansible`
 3. Provide some config to access and do the task with EC2 instance  
