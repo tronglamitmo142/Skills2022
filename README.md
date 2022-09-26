@@ -1,19 +1,15 @@
-# Task 1: Github Skills Tests
-- The scripts all the tasks be copied into the repository 
-- Local repository is connected to an online reposityry 
-- Local files are present on Github with a tag indicating the task name
-- Take screenshots indicating the success of your actions 
-- README.md indicating the list of all the tasks and your remarks 
+# Skill test 
 
-# Task 2: Ansible Skills Test 
-- Write the ansible script to install and test the webserver with ping command in a single playbook. Choose either Apache or Nginx server based on your own preference 
+README.md using following structure for each task:  
+- Task name  
+- Task preparation  
+- Task implementation  
+- Task troubleshooting  
+- Task verification   
 
-# Task 3: Docker 
-- Create a Docker NTP Services
-
-# Task 4:
-- Create Jenkins automation for install NTF server in task 3
-
-# Task 5:
-- Write unit test for some functions 
-  
+Details of each task are in the link below:  
+- ![Task 1: Github Test](./task1/README.md)  
+- ![Task 2: Ansbible Test](./task2/README.md)  
+- ![Task 3: Docker Test](./task3/README.md)  
+- ![Task 4: Jenkins Test](./task4/README.md)  
+- ![Task 5: Unittest](./task5/README.md)  
