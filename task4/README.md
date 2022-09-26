@@ -1,4 +1,6 @@
-Step by step to automation with Jenkins      
+# Task 4: Jenkins Test  
+
+## Implementaion   
 1. Install Jenkins in MacOS X     
 - I use the instruction: https://www.jenkins.io/download/lts/macos/    
 - Check the result and make sure jenkins is enable in local machine    
